@@ -1,6 +1,0 @@
-C:\Users\User\Desktop\TT1\Task1\Debug\Task1.exe
-C:\Users\User\Desktop\TT1\Task1\Debug\Task1.pdb
-D:\Github\lr41\Task1\Debug\Task1.exe
-D:\Github\lr41\Task1\Debug\Task1.pdb
-D:\Github\LR4\Task1\Debug\Task1.exe
-D:\Github\LR4\Task1\Debug\Task1.pdb

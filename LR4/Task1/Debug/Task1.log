@@ -1,5 +1,0 @@
-﻿  Lab4.cpp
-  main.cpp
-D:\Github\LR4\Task1\main.cpp(4,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
-  Создание кода...
-  Task1.vcxproj -> D:\Github\LR4\Task1\Debug\Task1.exe
